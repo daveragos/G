@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:gamezoning/Controller/Provider/date_provider.dart';
 import 'package:gamezoning/Controller/functions/incomes.dart';
-import 'package:gamezoning/Model/api_constants.dart';
+import 'package:gamezoning/Services/api_constants.dart';
 import 'package:intl/intl.dart';
 import 'package:liquid_pull_to_refresh/liquid_pull_to_refresh.dart';
 import 'package:liquid_progress_indicator/liquid_progress_indicator.dart';

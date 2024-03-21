@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:gamezoning/Model/alert_dialog.dart' as Alert;
-import 'package:gamezoning/Model/api_constants.dart';
-import 'package:gamezoning/Model/api_exceptions.dart';
+import 'package:gamezoning/Services/alert_dialog.dart' as Alert;
+import 'package:gamezoning/Services/api_constants.dart';
+import 'package:gamezoning/Services/api_exceptions.dart';
 
 class API {
   Alert.AlerterDialog alertDialog = Alert.AlerterDialog();

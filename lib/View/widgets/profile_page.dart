@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:gamezoning/Model/api_constants.dart';
+import 'package:gamezoning/Services/api_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ProfilePage extends ConsumerStatefulWidget {

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:gamezoning/Controller/Constants/https_route_consts.dart';
-import 'package:gamezoning/Model/api.dart';
+import 'package:gamezoning/Services/api.dart';
 import 'package:gamezoning/View/widgets/toggler.dart';
 import 'package:go_router/go_router.dart';
 

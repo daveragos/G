@@ -1,8 +1,8 @@
 // ignore_for_file: use_build_context_synchronously
 
 import 'package:gamezoning/Controller/Constants/https_route_consts.dart';
-import 'package:gamezoning/Model/api.dart';
-import 'package:gamezoning/Model/api_constants.dart';
+import 'package:gamezoning/Services/api.dart';
+import 'package:gamezoning/Services/api_constants.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:dio/dio.dart';
